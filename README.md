@@ -14,17 +14,16 @@ Features
 -  Displays RGB and HEX values in real-time  
 -  Professional, modern, and responsive GUI  
 
+--- 
+
+### Output
+![Output](Screenshots/Output.png)
+
 ---
 
-Tech Stack
-- Language: Python  
-- Library: Tkinter  
-
----
-
-Installation and Setup
+Installation
+and Setup
 1. Clone this repository:
-   ```bash
    git clone https://github.com/amanchougule09/Color-Picker-using-TKinter.git
 
 2. Navigate to the project directory:
@@ -33,6 +32,11 @@ Installation and Setup
 3. Run the script:
 python color_picker.py
 
+---
+
+Tech Stack
+- Language: Python  
+- Library: Tkinter 
 ---
 
 Use Case
